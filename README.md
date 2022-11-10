@@ -1,2 +1,2 @@
-# javascript stopwtch
+# javascript stopwatch
  
